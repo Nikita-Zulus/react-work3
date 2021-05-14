@@ -1,0 +1,3 @@
+export const ADDEVENT = "ADDEVENT";
+export const CHOSETHEDAY = "CHOSETHEDAY";
+export const SETSTARTDAY = "SETSTARTDAY";
